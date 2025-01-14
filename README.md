@@ -1,4 +1,5 @@
 # Go Application Boilerplate Setup
+######################################
 
 This repository provides a shell script to generate a standard boilerplate structure for building scalable Go applications. The generated structure is modular, maintainable, and ready for expansion as your project grows.
 
